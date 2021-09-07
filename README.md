@@ -6,8 +6,7 @@
 - just student programmer 🤪
 - Swift, Java, Python 🐍 
 - in Hanyang Univ. erica 🏫 
-- instagram  @endl._ess 👑
-- love in cats 🐈, computers 🖥 
+- instagram  @lndeday 👑
 <!--
 **chamikyo/chamikyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
